@@ -3,4 +3,3 @@ Fascinado pelo mundo do desenvolvimento front-end! Atualmente focado em aprender
 
 [![insta](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lopes-1b926028b/)
 
-![Lopes-office GitHub stats](https://github-readme-stats.vercel.app/api?username=Lopes-office&show_icons=true&theme=dracula)
